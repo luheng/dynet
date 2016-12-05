@@ -1,6 +1,8 @@
 #ifndef PROTO_SERIALIZATION_UTIL_H_
 #define PROTO_SERIALIZATION_UTIL_H_
 
+#include <fstream>
+
 #include "dynet/dynet.h"
 #include "tensor.pb.h"
 
